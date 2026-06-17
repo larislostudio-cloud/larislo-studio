@@ -6,7 +6,7 @@ use App\Models\WhatsAppBot;
 use Illuminate\Support\Facades\Http;
 use Illuminate\Support\Facades\Log;
 
-class WhatsAppService
+class WhatsappService
 {
     protected $adminApiKey;
     protected $adminNumber;
